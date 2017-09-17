@@ -1,0 +1,4 @@
+ip adress: 127.0.0.1
+port: 500
+device port: COM6
+device bound rate: 9600
